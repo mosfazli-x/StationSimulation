@@ -11,7 +11,6 @@ const mockStations = [
 describe('Stations Store Logic', () => {
   // Reset the store before each test to ensure a clean state
   beforeEach(() => {
-    const store = useStationsStore.getState();
     useStationsStore.setState({ 
       stations: mockStations, 
       filtered: mockStations, 

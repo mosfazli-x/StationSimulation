@@ -57,17 +57,4 @@ The project includes a meaningful unit test for the core business logic:
 Run tests with:
 ```bash
 npm run test
-
-🏗️ Local Setup
-Clone the repo:
-
-```bash
-git clone [your-repo-link]
-Install dependencies:
-
-```bash
-npm install
-Run development server:
-
-```bash
-npm run dev
+```
